@@ -1,0 +1,14 @@
+[
+	{
+		"id": "slide-1",
+		"imageSrc": "/one.jpg"
+	},
+	{
+		"id": "slide-2",
+		"imageSrc": "/two.jpg"
+	},
+	{
+		"id": "slide-3",
+		"imageSrc": "/three.jpg"
+	}
+]
